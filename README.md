@@ -6,7 +6,7 @@ Tutorial#1: Configuration Step
 [![Tutorial#1: Configuration](https://github.com/ptrsen/DLinkEm/blob/main/img1.png)](https://youtu.be/e-_62pvsQI8)
 
 
-Tutorial#2: Create Step
+Tutorial#2: Creation Step
 [![Tutorial#2: Create](https://github.com/ptrsen/DLinkEm/blob/main/img22.png)](https://youtu.be/YnE-ZHVPW24)
 
 
