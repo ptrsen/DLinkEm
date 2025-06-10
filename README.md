@@ -3,7 +3,7 @@
 This repository contains the information and tutorials of DLinkEm, a dynamic link network emulator. The emulator architecture is discussed in the paper entitled ["Satellite Communication Digital Twin for Evaluating Novel Solutions: Dynamic Link Emulation Architecture"](http://arxiv.org/abs/2107.07217)[PLKLPZ+23]. Currently, the emulator's source code is not publicly available. If you are interested in the emulator or collaboration, please do not hesitate to [contact us](mailto:erick.petersen@airbus.com,jorge.lopez-c@airbus.com,claude.poletti@airbus.com?subject=Regarding%20DLinkEm). The functionality and how to use the emulator is showcased in the following tutorials.
 
 
-![dynamic-link network](/figures/emu-1.pdf)
+![dynamic-link network](/emu-1.pdf)
 
 
 Tutorial#1: Configuration Step 
